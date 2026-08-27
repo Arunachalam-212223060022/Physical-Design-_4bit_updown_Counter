@@ -46,6 +46,8 @@ A new pop-up window appears.
 
 ### Loading the Netlist
 
+<img width="938" height="592" alt="image" src="https://github.com/user-attachments/assets/064addc8-9838-4a57-ac41-2534d060eb70" />
+
 * First, load the netlist.
 * You can browse for the file and select **“Top cell: Auto Assign”**.
 
